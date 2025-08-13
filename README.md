@@ -5,5 +5,5 @@ It includes biometric authentication, claim and transaction history, address man
 
 ## Download Links
 
-### (LATEST 1.0.1)[https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.0.1-beta]
-#### (1.0.0)[https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.0.0-beta]
+### [LATEST 1.0.1](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.0.1-beta)
+#### [1.0.0](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.0.0-beta)
