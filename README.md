@@ -4,8 +4,8 @@ Designed for users who prefer not to work with code, the application offers secu
 It includes biometric authentication, claim and transaction history, address management, and real-time updates.
 
 ## Download Links
-
-### [LATEST 1.1.3](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.1.3)
+### [LATEST 1.1.4](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.1.4)
+#### [1.1.3](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.1.3)
 #### [1.1.2](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.1.2)
 #### [1.1.1](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.1.1)
 #### [1.0.6](https://github.com/fireblocks/midnight-glacier-drop-desktop-app/releases/tag/1.0.6)
